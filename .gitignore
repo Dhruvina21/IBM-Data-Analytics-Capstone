@@ -3,3 +3,4 @@ jobs.json
 __pycache__/
 *.pyc
 *.xlsx
+Jobs_API.ipynb
