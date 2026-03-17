@@ -5,3 +5,4 @@ __pycache__/
 *.xlsx
 Jobs_API.ipynb
 *.csv
+*.sqlite
